@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.subverse.flic",
+      "sha256_cert_fingerprints": [
+        "25:D0:D1:92:33:03:C7:BD:D8:EE:67:14:75:98:E9:9C:32:56:71:2C:A5:57:C6:F2:A0:60:5C:13:3D:5C:DE:2C"
+      ]
+    }
+  }
+]
